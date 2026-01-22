@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/f310f0f0-7d20-43e1-ba70-225811e59d89" width="256" height="53" alt="CanvasCracked Logo" />
 
-<br/>
-<br/>
 
 # CanvasCracked  
 ### The Free CanvasHack Alternative
