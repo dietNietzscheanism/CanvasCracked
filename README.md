@@ -38,6 +38,13 @@ CanvasHack is a Chrome browser extension designed to bypass Canvas's built-in qu
 
 ## 🛠 Installation Instructions
 
+Video tutorial
+
+
+https://github.com/user-attachments/assets/dbe2da51-9521-4b57-a08c-a1a70eb0e0e8
+
+
+
 Follow these steps to install CanvasCracked:
 
 ### 1. Download the Extension
